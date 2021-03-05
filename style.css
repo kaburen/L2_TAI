@@ -2,3 +2,7 @@ body{
     background: lightgreen;
     margin-top: 12px;
 }
+.img {
+    width: 100px;
+    height: auto;
+}
